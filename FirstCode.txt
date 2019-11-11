@@ -1,0 +1,6 @@
+public class FirstCode{
+@Test
+public void test1() {
+System.out.println("test1.......");
+}
+}
